@@ -102,7 +102,7 @@ module.exports = {
   'MUR': '₨',
   'MVR': 'Rf',
   'MWK': 'MK',
-  'MXN': '$',
+  'MXN': 'MEX$',
   'MYR': 'RM',
   'MZN': 'MT',
   'NAD': '$',
