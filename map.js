@@ -2,7 +2,7 @@ module.exports = {
   'EUR': '€',
   'GBP': '£',
   'CHF': 'CHF',
-  'USD': '$',
+  'USD': 'US $',
   'AUD': 'AU $',
   'CAD': 'CA $',
   'SEK': 'kr',
