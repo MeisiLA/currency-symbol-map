@@ -13,7 +13,7 @@ module.exports = {
   'PLN': 'zł',
   'NOK': 'kr',
   'BGN': 'лв',
-  'MXN': 'MEX $',
+  'MXN': 'MX $',
   'ISK': 'kr',
   'CZK': 'Kč',
   'RON': 'RON',
